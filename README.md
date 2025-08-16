@@ -3,8 +3,6 @@
 Um **calendário interativo** feito em HTML, CSS e JavaScript.  
 Permite navegar entre os meses e destaca o **dia atual**.
 
-![Exemplo do Calendário](https://media.giphy.com/media/3o7TKP7Q0Cbv5HhGOQ/giphy.gif) <!-- Substitua pelo seu GIF se quiser -->
-
 ---
 
 ## 💡 Funcionalidades
